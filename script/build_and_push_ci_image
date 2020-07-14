@@ -15,8 +15,7 @@ function build_and_push_image() {
 function main() {
   echo "Start to build and push docker image for CI."
   echo "If push denied, execute "docker login" command and log in to DockerHub"
-  local cwd
-  cwd="$(cd "$(dirname "$0")" && pwd)"
+  local cwd="$(cd "$(dirname "$0")" && pwd)"
   build_and_push_image "${cwd}"
 }
 
