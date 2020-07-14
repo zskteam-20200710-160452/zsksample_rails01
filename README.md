@@ -1,4 +1,4 @@
-# zsksample_rails01 修正
+# zsksample_rails01
 
 チーム開発体験用プロジェクト
 
