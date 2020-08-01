@@ -1,6 +1,7 @@
 # zsksample_rails01
 
 チーム開発体験用プロジェクト
+foo
 
 # 前提事項 修正
 
